@@ -3,7 +3,7 @@ Automatically create requirements.txt files for all your Python projects.
 
 ## Usage
 
-    python main.py [-h] (-mk | -rm) [--batch] [--venv] [paths [paths ...]]
+    usage: python main.py [-h] (-mk | -rm) [--batch] [--venv] [paths [paths ...]]
     
     positional arguments:
       paths       Locations of project folders, or locations of project folder
